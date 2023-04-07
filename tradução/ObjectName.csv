@@ -1,0 +1,21 @@
+ID,Translation,Type
+ArcadeGame,Jogo de Fliperama,FIX
+BarStool,Tamborete,FIX
+CloneMachine,Máquina de Clonagem,FIX
+DoorLocked,Trancado,FIX
+Transmogrifier,Transmogrificador,FIX
+Turntables,Toca-discos,FIX
+WoodBurningStove,Fogão à Lenha,FIX
+Generator2,Gerador Overclockado,IMPROVE
+FireballSpitter,Cuspidor de bolas de fogo,FIX
+Arcade,Fliperama,FIX
+TVStation,Emissora,FIX
+JewelryStore,Joalheria,FIX
+ChokePoint,Bloqueio,IMPROVE
+PurpleRug,Tapete (roxo),FIX
+BlueRug,Tapete (azul),FIX
+DarkBlueRug,Tapete (azul escuro),FIX
+GreenRug,Tapete (verde),FIX
+RedRug,Tapete (vermelho),FIX
+BathroomTile,Azulejo de Banheiro,FIX
+DrugDenFloor,Boca de Fumo,FIX

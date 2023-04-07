@@ -1,0 +1,17 @@
+ID,Translation,Type
+AutoAimButton_Instr,Mire no alvo mais adequado na direção geral para onde sua arma está apontada. A chance disso ocorrer depende de sua estatística Arma de Fogo.,FIX
+AutoSortInventoryButton,"Organizar inventário automaticamente",FIX
+DamageNumbersButton_Instr,"Aqueles numerozinhos que aparecem quando você machuca coisas? Saquei, eles são uma bagunça. Você pode desligá-los.",IMPROVE
+DamageNumbersButton,Números de dano,IMPROVE
+EndLevelTimerButton,"Temporizador de saída",FIX
+LightingButton_Instr,Ajuste esta configuração para melhorar sua taxa de quadros se o jogo não estiver funcionando bem em seu sistema. Entra em efeito quando o jogo for reiniciado.,FIX
+MinimapButtonConsole_Instr,"Se você desligar esta opção, você ainda pode abrir o minimapa segurando o botão ""Interagir""",FIX
+MusicVolumeButton,Volume da Música,FIX
+ObjectGlowButton,Brilho de Objetos,FIX
+ShowPlayerIdentifierButton_Instr,"Coloca um círculo sob o personagem do jogador, deixando ele mais fácil de ser identificado",FIX
+TwitchLevelFeelingsButton,Os espectadores escolhem os desastres do nível,FIX
+TwitchOAuthButton,"Token oAuth",FIX
+GameDevelopment,Desenvolvimento do Jogo,FIX
+VideoProducer,Produtor de video,FIX
+QuickStartButton,Início rápido,IMPROVE
+StartButtonGameType,Início rápido,IMPROVE
