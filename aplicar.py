@@ -53,11 +53,13 @@ def _process_file(file: Path, loc_dir: Path):
 
             loc_header = next(loc_reader)
 
-            # Esse código assume que o STRING_ID sempre será a primeira coluna
+            # Esse código assume que os IDs sempre serão a primeira coluna
             if loc_header.index("STRING_ID") != 0:
                 raise RuntimeError(
                     f"O arquivo {loc_f.name} não tem o cabeçalho correto"
                 )
+            if header.index("ID") != 0:
+                raise RuntimeError(f"O arquivo {file.name} não tem o cabeçalho correto")
 
             loc_ts_index = loc_header.index("Translation")
 
