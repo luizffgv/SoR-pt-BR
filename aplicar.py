@@ -56,7 +56,7 @@ def _process_file(file: Path, loc_dir: Path):
             # Esse código assume que o STRING_ID sempre será a primeira coluna
             if loc_header.index("STRING_ID") != 0:
                 raise RuntimeError(
-                    f"O arquivo {loc_dir.name} não tem o cabeçalho correto"
+                    f"O arquivo {loc_f.name} não tem o cabeçalho correto"
                 )
 
             loc_ts_index = loc_header.index("Translation")
