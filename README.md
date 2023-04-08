@@ -15,3 +15,7 @@ subjetivas—em relação à versão oficial.
 Execute `aplicar.py` e forneça o caminho da pasta `Localization` (procure em
 `Streets of Rogue/StreetsOfRogue_Data`). **É recomendado fazer um backup dessa
 pasta antes de executar!**
+
+## Como contribuir?
+
+Veja nosso [CONTRIBUTING.md](CONTRIBUTING.md).
